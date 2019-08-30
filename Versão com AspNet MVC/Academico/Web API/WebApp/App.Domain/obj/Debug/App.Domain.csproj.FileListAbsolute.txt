@@ -1,0 +1,29 @@
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\App.Domain\bin\Debug\App.Domain.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\App.Domain\bin\Debug\App.Domain.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\App.Domain\obj\Debug\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\App.Domain\obj\Debug\App.Domain.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\App.Domain\obj\Debug\App.Domain.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\App.Domain\bin\Debug\App.Domain.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\App.Domain\bin\Debug\App.Domain.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\App.Domain\obj\Debug\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\App.Domain\obj\Debug\App.Domain.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\App.Domain\obj\Debug\App.Domain.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\App.Domain\obj\Debug\App.Domain.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\App.Domain\bin\Debug\App.Domain.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\App.Domain\bin\Debug\App.Domain.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\App.Domain\obj\Debug\App.Domain.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\App.Domain\obj\Debug\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\App.Domain\obj\Debug\App.Domain.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\App.Domain\obj\Debug\App.Domain.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\App.Domain\bin\Debug\App.Domain.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\App.Domain\bin\Debug\App.Domain.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\App.Domain\obj\Debug\App.Domain.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\App.Domain\obj\Debug\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\App.Domain\obj\Debug\App.Domain.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\App.Domain\obj\Debug\App.Domain.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\App.Domain\bin\Debug\App.Domain.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\App.Domain\bin\Debug\App.Domain.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\App.Domain\obj\Debug\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\App.Domain\obj\Debug\App.Domain.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\App.Domain\obj\Debug\App.Domain.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\App.Domain\obj\Debug\App.Domain.csprojAssemblyReference.cache

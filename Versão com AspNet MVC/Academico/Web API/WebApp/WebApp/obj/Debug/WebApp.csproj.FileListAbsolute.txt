@@ -1,0 +1,728 @@
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\csc.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\csc.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\csc.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\csi.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\csi.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\csi.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.Console.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\vbc.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\vbc.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\System.Web.Http.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\System.Web.Http.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\System.Web.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\WebApp\WebApp\bin\System.Web.Http.Cors.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\csc.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\csc.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\csc.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\csi.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\csi.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\csi.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.Console.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\vbc.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\vbc.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\System.Web.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\System.Web.Http.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\System.Web.Http.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\System.Web.Http.Cors.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 4\Web API\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\csc.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\csc.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\csc.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\csi.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\csi.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\csi.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.Console.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\vbc.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\vbc.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\System.Web.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\System.Web.Http.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\System.Web.Http.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\System.Web.Http.Cors.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 5\Web API\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\WebApp.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\csc.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\csc.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\csc.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\csi.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\csi.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\csi.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.Console.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\vbc.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\vbc.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\Swashbuckle.Core.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\System.Web.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\System.Web.Http.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\WebActivatorEx.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\System.Web.Http.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\System.Web.Http.Cors.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\Web API\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\WebApp.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\csc.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\csc.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\csc.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\csi.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\csi.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\csi.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.Console.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\vbc.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\vbc.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\Swashbuckle.Core.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\System.Web.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\System.Web.Http.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\WebActivatorEx.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\System.Web.Http.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\System.Web.Http.Cors.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\App.Domain.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\App.Repository.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\App.Domain.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 6\58\Web API\WebApp\WebApp\bin\App.Repository.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\WebApp.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\csc.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\csc.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\csc.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\csi.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\csi.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\csi.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.Console.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\vbc.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\vbc.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\App.Domain.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\App.Repository.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\Swashbuckle.Core.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\System.Web.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\System.Web.Http.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\WebActivatorEx.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\App.Domain.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\App.Repository.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\System.Web.Http.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\System.Web.Http.Cors.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\Microsoft.Owin.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\Owin.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\System.Web.Http.Owin.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\Microsoft.Owin.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\System.Web.Http.Owin.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 7\64\Web API\WebApp\WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\WebApp.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\csc.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\csc.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\csc.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\csi.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\csi.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\csi.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Console.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\vbc.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\vbc.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\App.Domain.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\App.Repository.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\Owin.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\Swashbuckle.Core.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\System.Web.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.Owin.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\WebActivatorEx.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\App.Domain.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\App.Repository.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.Cors.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.Owin.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Seção 8\Academico\Web API\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\WebApp.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\csc.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\csc.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\csc.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\csi.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\csi.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\csi.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Console.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\vbc.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\vbc.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\App.Domain.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\App.Repository.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\Owin.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\Swashbuckle.Core.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\System.Web.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.Owin.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\WebActivatorEx.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\App.Domain.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\App.Repository.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.Cors.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.Owin.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final\Academico\Web API\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\WebApp.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\csc.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\csc.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\csc.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\csi.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\csi.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\csi.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Console.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\vbc.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\vbc.rsp
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\App.Domain.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\App.Repository.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\Owin.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\Swashbuckle.Core.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\System.Web.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.Owin.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\WebActivatorEx.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\App.Domain.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\App.Repository.pdb
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.Cors.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.Owin.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\obj\Debug\WebApp.Properties.Resources.resources
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\obj\Debug\WebApp.csproj.GenerateResource.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Fabiano\Documents\Aulas de Web APIs\Versão Final - Com Asp.net MVC\Academico\Web API\WebApp\WebApp\obj\Debug\WebApp.pdb

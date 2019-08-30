@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nome": "Rafael",
+    "sobrenome": "Henrique",
+    "telefone": "111223344",
+    "data": "2002-12",
+    "ra": 4
+  },
+  {
+    "id": 2,
+    "nome": "Fabiano",
+    "sobrenome": "Augusto",
+    "telefone": "445566644",
+    "data": "1996-02",
+    "ra": 5
+  },
+  {
+    "id": 3,
+    "nome": "Marcio",
+    "sobrenome": "Cesar",
+    "telefone": "77889944556",
+    "data": "1982-08",
+    "ra": 25
+  },
+  {
+    "id": 4,
+    "nome": "Eduardo",
+    "sobrenome": "Figueredo",
+    "telefone": "77889944556",
+    "data": "1982-01",
+    "ra": 40
+  },
+  {
+    "id": 5,
+    "nome": "Guilherme",
+    "sobrenome": "Alvez",
+    "telefone": "77889944556",
+    "data": "1982-10",
+    "ra": 50
+  },
+  {
+    "id": 6,
+    "nome": "Gabriel",
+    "sobrenome": "Alvez",
+    "telefone": "77889944556",
+    "data": "1982-10",
+    "ra": 150
+  }
+]

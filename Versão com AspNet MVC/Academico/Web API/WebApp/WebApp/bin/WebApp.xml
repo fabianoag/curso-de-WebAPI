@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApp</name>
+    </assembly>
+    <members>
+        <member name="M:WebApp.SwaggerConfig.GetXmlCommentsPath">
+            <summary>
+            Adicionado na aula 57 Configurando o dominio de teste.
+            </summary>
+            <returns>Retorna uma string.</returns>
+        </member>
+        <member name="M:WebApp.BaseUsuarios.Usuarios">
+            <summary>
+            Lista de permissões para acesso.
+            </summary>
+            <returns>Retorna a lista de permissões.</returns>
+        </member>
+        <member name="T:WebApp.Usuario">
+            <summary>
+            Entidade usuários da aplicação.
+            </summary>
+        </member>
+        <member name="T:WebApp.Funcao">
+            <summary>
+            Entidade com os tipos de permissão usadas.
+            </summary>
+        </member>
+        <member name="T:WebApp.Controllers.AlunoController">
+            <summary>
+            A controller da Web API 'Aluno'.
+            </summary>
+        </member>
+        <member name="M:WebApp.Controllers.AlunoController.Recuperar">
+            <summary>
+            Consunta de alunos.
+            </summary>
+            <returns>Retorna uma lista de alunos.</returns>
+        </member>
+        <member name="M:WebApp.Models.AlunoModel.ListarAluno(System.Nullable{System.Int32})">
+            <summary>
+            Lista todos os alunos do banco de dados, você pode ou não passar o id do aluno.
+            </summary>
+            <param name="id">Recebe o id do</param>
+            <returns>Retorna o resultado da pesquisa.</returns>
+        </member>
+        <member name="M:WebApp.Models.AlunoModel.Inserir(App.Domain.AlunoDTO)">
+            <summary>
+            Inseri um aluno no banco de dados.
+            </summary>
+            <param name="aluno">Recebe a entidade aluno para inserir.</param>
+        </member>
+        <member name="M:WebApp.Models.AlunoModel.Atualizar(App.Domain.AlunoDTO)">
+            <summary>
+            Atualiza um aluno já existente no banco de dados.
+            </summary>
+            <param name="aluno">Recebe a entidade aluno para atualizar.</param>
+        </member>
+        <member name="M:WebApp.Models.AlunoModel.Deletar(System.Int32)">
+            <summary>
+            Deleta um aluno por id.
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="T:WebApp.Properties.Resources">
+            <summary>
+              Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+            </summary>
+        </member>
+        <member name="P:WebApp.Properties.Resources.ResourceManager">
+            <summary>
+              Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+            </summary>
+        </member>
+        <member name="P:WebApp.Properties.Resources.Culture">
+            <summary>
+              Substitui a propriedade CurrentUICulture do thread atual para todas as
+              pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+            </summary>
+        </member>
+        <member name="M:WebApp.ProviderDeTokensDeAcesso.ValidateClientAuthentication(Microsoft.Owin.Security.OAuth.OAuthValidateClientAuthenticationContext)">
+            <summary>
+            Valida o cliente e autentica.
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApp.ProviderDeTokensDeAcesso.GrantResourceOwnerCredentials(Microsoft.Owin.Security.OAuth.OAuthGrantResourceOwnerCredentialsContext)">
+            <summary>
+            Autenticação do usuário.
+            </summary>
+            <param name="context">Recebe um contexto</param>
+            <returns>Retorna uma valitação.</returns>
+        </member>
+        <member name="M:WebApp.ProviderDeTokensDeAcesso.TokenEndpoint(Microsoft.Owin.Security.OAuth.OAuthTokenEndpointContext)">
+            <summary>
+            Método que é executado no final do processo.
+            </summary>
+            <param name="context">Recebe um context.</param>
+            <returns>Retorna um TokenEndPoint.</returns>
+        </member>
+        <member name="T:WebApp.Startup">
+            <summary>
+            Classe de inicialização do projeto.
+            </summary>
+        </member>
+        <member name="M:WebApp.Startup.Configuration(Owin.IAppBuilder)">
+            <summary>
+            Configurações que serão usadas no Owin quando o projeto for inicializado.
+            </summary>
+            <param name="app">Recebe app.</param>
+        </member>
+        <member name="M:WebApp.Startup.AtivandoAccessTokens(Owin.IAppBuilder)">
+            <summary>
+            Método privado de para acesso do token e as configuração do token.
+            </summary>
+            <param name="app">Recebe app.</param>
+        </member>
+    </members>
+</doc>
