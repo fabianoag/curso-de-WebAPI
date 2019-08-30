@@ -1,6 +1,6 @@
 # Conteúdo da aulas de Web API
 
-> Cursos => Seja Fullstack com Asp.NET Web API 2 e Javascript + SQL.
+Cursos => Seja Fullstack com Asp.NET Web API 2 e Javascript + SQL.
 
 > OBS: Toda a informação contida aqui e referênte a versão final, nele inclui uma pasta chamada 
 página que tem umas páginas para testar a **WebApp** do tipo HTML com Javascript, e também na soluction 
@@ -81,8 +81,8 @@ Página em HTML com Javascript.
 -------------------------------------------------------------------------------------------------------
 
 Página em Asp.Net MVC.
-> OBS: Neste caso a unica página que foi alterada foi o "Cadastrar alunos" o resto das páginas continua sendo
-a mesma coisa que as páginas citadas acima.
+> OBS: Neste caso a unica página que foi alterada foi o "Cadastrar alunos" o resto das telas continua sendo
+a mesma coisa que as telas citadas acima.
 
 ### Cadastrar alunos.
 ![Cadastrar alunos](https://user-images.githubusercontent.com/34901033/64053806-72800b00-cb5a-11e9-9620-dc7143e362b6.jpg)
