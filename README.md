@@ -57,3 +57,32 @@ sistema acadêmico.
 Que é uma página o tipo **Asp.Net MVC** para os testes da **WebApp** que é a **Web API** do sistema acadêmico. 
 
 
+-------------------------------------------------------------------------------------------------------
+
+# Demostrativos das telas das páginas
+Página em HTML com Javascript.
+
+### Login
+![Tela de login.](https://user-images.githubusercontent.com/34901033/64053790-609e6800-cb5a-11e9-838a-fb294f7e4cb2.jpg)
+
+### Cadastrar alunos.
+![Cadastrar alunos](https://user-images.githubusercontent.com/34901033/64053794-61cf9500-cb5a-11e9-97b8-43d6d408476f.jpg)
+
+### Formulário de cadastro de aluno.
+![Formulário de cadastro de aluno](https://user-images.githubusercontent.com/34901033/64054429-516ce980-cb5d-11e9-982f-e94fb31959f7.jpg)
+
+### Formulário de edição de aluno.
+![Formulário de edição de aluno](https://user-images.githubusercontent.com/34901033/64053792-6136fe80-cb5a-11e9-9dbb-d18586859ab7.jpg)
+
+### Excluir aluno.
+![Excluir aluno](https://user-images.githubusercontent.com/34901033/64053793-6136fe80-cb5a-11e9-98be-1e814ce3138a.jpg)
+
+
+-------------------------------------------------------------------------------------------------------
+
+Página em Asp.Net MVC.
+> OBS: Neste caso a unica página que foi alterada foi o "Cadastrar alunos" o resto das páginas continua sendo
+a mesma coisa que as páginas citadas acima.
+
+### Cadastrar alunos.
+![Cadastrar alunos](https://user-images.githubusercontent.com/34901033/64053806-72800b00-cb5a-11e9-9620-dc7143e362b6.jpg)
