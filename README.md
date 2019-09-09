@@ -85,7 +85,7 @@ Página em HTML com Javascript.
 
 Página em Asp.Net MVC.
 > OBS: Neste caso a unica página que foi alterada foi o "Cadastrar alunos" o resto das telas continua sendo
-a mesma coisa que as telas citadas acima.
+a mesma coisa que as telas citadas acima, só muda a linguagem utilizada.
 
 ### Cadastrar alunos.
 ![Cadastrar alunos](https://user-images.githubusercontent.com/34901033/64053806-72800b00-cb5a-11e9-9620-dc7143e362b6.jpg)
