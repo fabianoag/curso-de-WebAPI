@@ -19,9 +19,12 @@ Todas as referências listadas você encontra no NuGet package do Visual Studio 
 
     INSTALAÇÕES DO 'Owin' NO PROMPT DO 'NuGet'
     ============================================
-    install-package Microsoft.AspNet.WebApi.Owin
-    install-Package Microsoft.Owin.Host.SystemWeb
-    install-Package Microsoft.Owin.Cors
+    Install-package Microsoft.AspNet.WebApi.Owin
+    Install-Package Microsoft.Owin.Host.SystemWeb
+    Install-Package Microsoft.Owin.Cors
+    Install-Package Microsoft.Owin.Security.OAuth
+    Install-Package Microsoft.AspNet.WebApi.Cors
+    'System.ComponentModel.DataAnnotations' da pasta References do projeto
 
 > OBS: Todas as instalações listadas acima e para o projeto **WebApp** da soluction. 
 Ao terminar a instalação acima, clique com o botão direito do mouse, escolha add Owin Startup Class
@@ -86,3 +89,8 @@ a mesma coisa que as telas citadas acima.
 
 ### Cadastrar alunos.
 ![Cadastrar alunos](https://user-images.githubusercontent.com/34901033/64053806-72800b00-cb5a-11e9-9620-dc7143e362b6.jpg)
+
+
+
+
+[.](https://docs.google.com/document/d/e/2PACX-1vSgm9XDaMftaqgGvaVxu3vcbZc-YBmTsqkDmUbeCeYRt0xpYONkgGPjMzxZRvGU4-Q-N9PPVMBynKzD/pub)
